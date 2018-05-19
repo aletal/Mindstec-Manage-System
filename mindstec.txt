@@ -1,3 +1,5 @@
 Mindstec SSID : this is password that you needn't need to know.
 
 https://github.com/aletal/Mindstec-Manage-System.git
+
+Beijing is good
